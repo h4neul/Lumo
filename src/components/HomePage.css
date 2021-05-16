@@ -1,0 +1,28 @@
+html {
+    background-color: #f5cbea;
+    font-size: large;
+}
+
+.img100 {
+    height: 80px;
+    width: 100px; 
+}
+
+.logoImg {
+    height: 70px;
+    text-align: left;
+}
+
+.verticalCenter {
+    height: 60px;
+}
+
+.brderwidth {
+    width: 600px; 
+    background-color:transparent; 
+}
+
+.calendar {
+    font-size: 5em;
+    font-weight:bolder; 
+}
